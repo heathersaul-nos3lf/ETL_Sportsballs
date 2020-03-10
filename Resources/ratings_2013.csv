@@ -1,10 +1,10 @@
-﻿Viewers,Away,Home,Date,Network
+﻿Viewers,School,Opponent,Date,Network
 3.16M,Tennessee,Oregon,9/14/13,ABC
 3.20M,South Carolina,UCF,9/28/13,ABC
 3.53M,Georgia,Georgia Tech,11/30/13,ABC
 3.67M,Mississippi State,Oklahoma State,8/31/13,ABC
 8.14M,Georgia,Clemson,8/31/13,ABC
-9.59M,Wisconsin,South Carolina,1/1/14,ABC
+9.59M,South Carollina,Wisconsin,1/1/14,ABC
 11.90M,LSU,Alabama,11/9/13,CBS
 13.59M,Alabama,Texas A&M,9/14/13,CBS
 13.78M,Alabama,Auburn,11/30/13,CBS
@@ -27,33 +27,33 @@ N/A,Tennessee,Florida,9/21/13,CBS
 1.88M,Vanderbilt,South Carolina,9/14/13,ESPN
 16.34M,Oklahoma,Alabama,1/2/14,ESPN
 2.24M,LSU,Mississippi State,10/5/13,ESPN
-2.28M,Louisville,Kentucky,9/14/13,ESPN
+2.28M,Kentucky,Louisville,9/14/13,ESPN
 2.28M,Tennessee,Missouri,11/2/13,ESPN
 2.33M,Arkansas,Alabama,10/19/13,ESPN
 2.42M,Missouri,Ole Miss,11/23/13,ESPN
-2.47M,Rice,Mississippi State,12/31/13,ESPN
+2.47M,Mississippi State,Rice,12/31/13,ESPN
 2.57M,Vanderbilt,Houston,1/4/14,ESPN
 2.74M,Ole Miss,Vanderbilt,8/29/13,ESPN
 2.77M,Auburn,Tennessee,11/9/13,ESPN
 3.01M,Missouri,Georgia,10/12/13,ESPN
 3.12M,Ole Miss,Georgia Tech,12/30/13,ESPN
-3.15M,Florida State,Florida,11/30/13,ESPN
+3.15M,Florida,Florida State,11/30/13,ESPN
 3.17M,LSU,TCU,8/31/13,ESPN
 3.37M,South Carolina,Tennessee,10/19/13,ESPN
 3.65M,North Carolina,South Carolina,8/29/13,ESPN
 3.80M,Auburn,LSU,9/21/13,ESPN
 4.02M,Ole Miss,Alabama,9/28/13,ESPN
-4.21M,Rice,Texas A&M,8/31/13,ESPN
+4.21M,Texas A&M,Rice,8/31/13,ESPN
 4.49M,Alabama,Mississippi State,11/16/13,ESPN
 4.60M,Florida,Miami,9/7/13,ESPN
 5.11M,Texas A&M,Ole Miss,10/12/13,ESPN
 5.17M,Alabama,Virginia Tech,8/31/13,ESPN
-5.44M,Iowa,LSU,1/1/14,ESPN
+5.44M,LSU,Iowa,1/1/14,ESPN
 5.72M,Texas A&M,Missouri,11/30/13,ESPN
 7.05M,South Carolina,Georgia,9/7/13,ESPN
-8.69M,Duke,Texas A&M,12/31/13,ESPN
+8.69M,Texas A&M,Duke,12/31/13,ESPN
 26.06M,Auburn,FSU,1/6/14,"ESPN, ESPN2, ESPNEWS"
-1.12M,UTEP,Texas A&M,11/2/13,ESPN2
+1.12M,Texas A&M,UTEP,11/2/13,ESPN2
 1.46M,Vanderbilt,Tennessee,11/23/13,ESPN2
 1.55M,Arkansas,Florida,10/5/13,ESPN2
 1.69M,Auburn,Arkansas,11/2/13,ESPN2
@@ -62,22 +62,22 @@ N/A,Tennessee,Florida,9/21/13,CBS
 2.56M,Alabama,Kentucky,10/12/13,ESPN2
 2.60M,LSU,Ole Miss,10/19/13,ESPN2
 2.76M,Texas A&M,Arkansas,9/28/13,ESPN2
-2.78M,Colorado State,Alabama,9/21/13,ESPN2
+2.78M,Alabama,Colorado State,9/21/13,ESPN2
 3.05M,South Carolina,Missouri,10/26/13,ESPN2
 3.14M,Clemson,South Carolina,11/30/13,ESPN2
-4.52M,Nebraska,Georgia,1/1/14,ESPN2
+4.52M,Georgia,Nebraska,1/1/14,ESPN2
 174K,Vanderbilt,UMass,9/21/13,ESPNEWS
-189K,Toledo,Missouri,9/7/13,ESPNEWS
+189K,Missouri,Toledo,9/7/13,ESPNEWS
 349K,Clemson,South Carolina,11/30/13,ESPNEWS
 550K,Texas A&M,Ole Miss,10/12/13,ESPNEWS
-271K,Troy,Ole Miss,11/16/13,ESPNU
-326K,Toledo,Missouri,9/7/13,ESPNU
+271K,Ole Miss,Troy,11/16/13,ESPNU
+326K,Missouri,Toledo,9/7/13,ESPNU
 587K,Missouri,Kentucky,11/9/13,ESPNU
-601K,Kent State,LSU,9/14/13,ESPNU
+601K,LSU,Kent State,9/14/13,ESPNU
 607K,Tennessee,Kentucky,11/30/13,ESPNU
-659K,UAB,LSU,9/7/13,ESPNU
-809K,SMU,Texas A&M,9/21/13,ESPNU
-922K,Washington State,Auburn,8/31/13,ESPNU
+659K,LSU,UAB,9/7/13,ESPNU
+809K,Texas A&M,SMU,9/21/13,ESPNU
+922K,Auburn,Washington,8/31/13,ESPNU
 943K,Ole Miss,Auburn,10/5/13,ESPNU
 950K,Florida,Kentucky,9/28/13,ESPNU
 953K,Kentucky,Georgia,11/23/13,ESPNU
